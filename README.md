@@ -1,7 +1,6 @@
 # 🛒 PERN Stack E-Commerce Platform 🚀
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
+![Demo App](https://github.com/2023000000148-alt/northwind_store/blob/8d34031068364ce0f3ace0f2df151c7c11b6b561/screenshot-for-readme.png)
 ---
 
 ## ✨ Highlights:
