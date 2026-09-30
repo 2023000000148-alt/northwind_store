@@ -1,4 +1,4 @@
-✨ Highlights:
+# ✨ Highlights:
 🛒 Full Stack E-Commerce App built from scratch
 ⚛️ Frontend with React, TanStack Query, Tailwind CSS & DaisyUI
 🚀 Backend with Express.js & TypeScript
