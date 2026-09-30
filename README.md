@@ -1,4 +1,5 @@
 # ✨ Highlights:
+/*
 🛒 Full Stack E-Commerce App built from scratch
 ⚛️ Frontend with React, TanStack Query, Tailwind CSS & DaisyUI
 🚀 Backend with Express.js & TypeScript
@@ -19,7 +20,8 @@
 🚨 Monitoring, Error Tracking & Performance Tracking with Sentry
 📋 Structured Logs for debugging and analysis
 ⚡ Modern SaaS / E-Commerce Architecture
-*🌐 Deploy your app with a live URL
-*🆓 100% Free Setup to get started
-*📂 Full Source Code Provided
-*🎯 Resume-ready production-style project
+🌐 Deploy your app with a live URL
+🆓 100% Free Setup to get started
+📂 Full Source Code Provided
+🎯 Resume-ready production-style project
+*/
