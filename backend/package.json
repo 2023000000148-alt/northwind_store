@@ -8,6 +8,7 @@
     "build": "tsc",
     "start": "node --import ./src/instrument.ts dist/index.js",
     "db:push": "drizzle-kit push",
+    "db:seed": "tsx scripts/seed.ts",
     "migrate:dev": "drizzle-kit generate:pg --out migrations && drizzle-kit push:pg",
     "migrate:prod": "drizzle-kit push:pg"
   },
